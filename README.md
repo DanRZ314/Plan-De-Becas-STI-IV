@@ -1,9 +1,19 @@
 # Plan-De-Becas-STI-IV
 
-Programación en C.
+Promoció IV Servicios de TI.
 
-Instructores: Francis y Tavo
+DGTI-UNAM
 
-Encargados: Lau y Susy
+Alumno: Daniela A. Romero Zárate
 
-Dirección General de Servicios Institucionales ...blablabla
+e-mail: dan.arz04@gmail.com
+
+Responsables:
+
+	Laura Liyen Galicia Peñaloza
+
+	Susana Torres Reynoso
+
+Formación de Recursos Humanos
+
+Direcciónde Sistemas y Servicios Institucionales
