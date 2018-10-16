@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<ctype.h>
 
 /*Programa que pide al usuario una letra y 
   muestra si la letra es una consonante o una
@@ -11,6 +12,7 @@ char letra;
 //Pide al usuario una letra
 printf("Ingresa una letra: %c");
 scanf(" %c", &letra);
+letra = tolower(letra);
 
 //Verifica si la letra es una vocal o una consonate
 switch (letra){

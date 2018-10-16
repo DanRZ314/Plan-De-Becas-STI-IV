@@ -47,7 +47,7 @@ case 'a':
 	}
 	if(unidad2 == 'm'){
 	resultado = cantidad * 525600;
-	printf("%lf años son %l minutos\n", cantidad, resultado);
+	printf("%lf años son %lf minutos\n", cantidad, resultado);
 	}
 	if(unidad2 == 's'){
 	resultado = cantidad *31536000;

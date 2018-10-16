@@ -1,10 +1,10 @@
 # Plan-De-Becas-STI-IV
 
-Promoci贸 IV Servicios de TI.
+Promoci胣 IV Servicios de TI.
 
-DGTI-UNAM
+DGTIC-UNAM
 
-Alumno: Daniela A. Romero Z谩rate
+Alumna: Daniela A. Romero Z谩rate
 
 e-mail: dan.arz04@gmail.com
 
@@ -16,4 +16,4 @@ Responsables:
 
 Formaci贸n de Recursos Humanos
 
-Direcci贸nde Sistemas y Servicios Institucionales
+Direcci贸n de Sistemas y Servicios Institucionales
