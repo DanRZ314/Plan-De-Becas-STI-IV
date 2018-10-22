@@ -10,9 +10,9 @@ e-mail: dan.arz04@gmail.com
 
 Responsables:
 
-	Laura Liyen Galicia Peñaloza
+- Laura Liyen Galicia Peñaloza
 
-	Susana Torres Reynoso
+- Susana Torres Reynoso
 
 Formación de Recursos Humanos
 

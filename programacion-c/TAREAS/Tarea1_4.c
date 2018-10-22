@@ -15,9 +15,17 @@ scanf(" %d", &numero1);
 printf("Ingresa otro numero entero: ");
 scanf(" %d", &numero2);
 
+//Verifca si los numeros son iguales
+if(numero1 == numero2){
+printf(" %d es igual a %d\n", numero1, numero2);
+return 0;
+}
+
 //Encuetra al numero mayor
 if (numero1 > numero2){
 	printf("%d es mayor que %d\n", numero1, numero2);
 	return 0;
-} printf("%d es mayor que %d\n", numero2, numero1);
+} 
+printf("%d es mayor que %d\n", numero2, numero1);
+
 }
