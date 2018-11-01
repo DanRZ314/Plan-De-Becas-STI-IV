@@ -1,6 +1,18 @@
 #include<stdio.h>
+#include<math.h>
 
 /*Programa que convierte de decimal a binario, octal o hexadecimal. */
+
+int potencia2(int x){
+int i, cont;
+for(i=0; cont=0; i++){
+	if(x < power(2,i){
+	cont = i-1;
+	} else
+	  cont = 0;
+}
+}
+
 
 int main(){
 
